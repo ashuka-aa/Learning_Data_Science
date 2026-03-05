@@ -1,4 +1,4 @@
-\# Data Science Learning Journey
+# Data Science Learning Journey
 
 
 
@@ -6,7 +6,7 @@ This repository contains all my practice works, assignments and also notes while
 
 
 
-\## Learning Goals
+## Learning Goals
 
 
 
@@ -17,7 +17,7 @@ This repository contains all my practice works, assignments and also notes while
 
 
 
-\## Technologies Used
+## Technologies Used
 
 
 
@@ -28,7 +28,7 @@ This repository contains all my practice works, assignments and also notes while
 
 
 
-\#### Author
+### Author
 
 
 
