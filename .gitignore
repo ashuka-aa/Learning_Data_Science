@@ -1,9 +1,9 @@
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
-NumPy/
+NumPy/Array1.npy
 Pandas/
-Python/Basic_Python.ipynb  
+Python/Basics.ipynb  
 Python/List.ipynb  
 Python/OOP.ipynb  
 Python/Stack.ipynb
-
+Data_Visualization/
